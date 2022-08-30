@@ -1,0 +1,10 @@
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\bin\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.deps.json
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\bin\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.dll
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\bin\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.pdb
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.AssemblyInfoInputs.cache
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.AssemblyInfo.cs
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.dll
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.pdb
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.Domain\obj\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.csproj.AssemblyReference.cache

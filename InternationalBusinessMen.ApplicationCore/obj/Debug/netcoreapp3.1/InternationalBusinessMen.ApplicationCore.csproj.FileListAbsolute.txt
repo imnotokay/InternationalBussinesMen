@@ -1,0 +1,13 @@
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\bin\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.deps.json
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\bin\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.dll
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\bin\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.pdb
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\bin\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.dll
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\bin\Debug\netcoreapp3.1\InternationalBusinessMen.Domain.pdb
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.csproj.CopyComplete
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.dll
+C:\Users\Alex Castillo\source\repos\InternationalBusinessMen\InternationalBusinessMen.ApplicationCore\obj\Debug\netcoreapp3.1\InternationalBusinessMen.ApplicationCore.pdb
